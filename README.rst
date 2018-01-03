@@ -27,7 +27,7 @@ To get the latest commit from GitHub
 
 .. code-block:: bash
 
-    pip install -e git+git://github.com/silverapp/silver.git#egg=silver
+    pip install -e git+git://github.com/kggoyani192/silver.git#egg=silver
 
 Add ``silver`` to your ``INSTALLED_APPS``
 
