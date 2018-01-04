@@ -111,7 +111,6 @@ your settings file. Example for storing the PDFs on S3:
             'access_key': 'YOUR-AWS-ACCESS-KEY',
             'secret_key': 'YOUR-AWS-SECRET-KEY',
             'acl': 'private',
-            'calling_format': 'boto.s3.connection.OrdinaryCallingFormat'
         }
     )
 
